@@ -1,4 +1,4 @@
-# abcd
+# TaikoHitSwitchHelper
 
 ## Project setup
 ```
